@@ -27,19 +27,19 @@ It focuses on:
 
 ### Overview
 
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Industry Analysis
 
-![Industry](industry.png)
+![Industry](Industry.png)
 
 ### Job Role Analysis
 
-![Roles](roles.png)
+![Roles](Roles.png)
 
 ### Location Analysis
 
-![Location](location.png)
+![Location](Location.png)
 
 ---
 
@@ -62,9 +62,17 @@ It focuses on:
 
 ---
 
-## 📎 File
+## 📎 Project File
 
-* AI_Powered_Job_Market_Insights.pbix
+* **AI_Powered_Job_Market_Insights.pbix**
+
+This Power BI file contains the complete interactive dashboards, including:
+
+* Data modeling and relationships
+* DAX measures and KPIs
+* Multi-page analysis (Overview, Industry, Role, Location)
+
+👉 Open in Power BI Desktop to explore all visuals and filters interactively.
 
 ---
 
